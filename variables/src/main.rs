@@ -1,7 +1,6 @@
 fn main() {
     let temperature = 35;
-    
-    //let override = 80;
+    temperature = 30;
 
     println!("{}", temperature);
 }
