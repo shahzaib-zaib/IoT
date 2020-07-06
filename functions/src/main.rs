@@ -20,10 +20,10 @@
 
 
 fn main(){
-    square(2,9);
+    square(2,9); // arguments
 }
 
-fn square(x: u32, y: u32){
+fn square(x: u32, y: u32) // parameter{
     let result = x* x;
     let result_1 y* y;
 
